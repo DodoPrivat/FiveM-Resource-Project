@@ -20,6 +20,11 @@ The idea with this bot is to create a web interface for it later down the road t
 ### Whats with the random numbers and characters before a script name?
 In order to avoid having files with the same name for example: ``script (1).zip`` I generate a unique short ID for each folder so there are no name conflicts.
 
+### How often does this repository get updated?
+It *usually* updates every hour or so, currently the bot can only download from a direct download link, most large resources are often uploaded to either Google Drive or Mega.nz.
+
+So those downloads needs to be manually downloaded and added to the repository, but the plan is to fix so the bot can download from those links too.
+
 ### Will the bot be open sourced?
 In the future the whole bot including said web panel will be open sourced when it is in a state where I feel like it is stable and easy to use.
 
